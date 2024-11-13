@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "user": {
+        "name": "Asep Saepul",
+        "avatar": "https://images.pexels.com/photos/27659838/pexels-photo-27659838/free-photo-of-portrait-of-a-man-on-a-white-background.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "place": "Bandung, Indonesia"
+      },
+      "content": {
+        "isLike": false,
+        "image": "https://images.pexels.com/photos/3386600/pexels-photo-3386600.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "likes": "1.000 likes",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+      }
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "Harry Kosasih",
+        "avatar": "https://images.pexels.com/photos/2015207/pexels-photo-2015207.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "place": "Jakarta, Indonesia"
+      },
+      "content": {
+        "isLike": false,
+        "image": "https://images.pexels.com/photos/6003052/pexels-photo-6003052.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "likes": "1.890 likes",
+        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec."
+      }
+    },
+    {
+      "id": 3,
+      "user": {
+        "name": "I Made Ganesha",
+        "avatar": "https://images.pexels.com/photos/27871948/pexels-photo-27871948/free-photo-of-antigua-guatemala.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "place": "Bali, Indonesia"
+      },
+      "content": {
+        "isLike": false,
+        "image": "https://images.pexels.com/photos/6226230/pexels-photo-6226230.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "likes": "7.820 likes",
+        "description": "Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus."
+      }
+    }
+  ]
+  
